@@ -1,0 +1,29 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+#chooseFolder{
+    width: 50%;
+    margin: auto;
+}
+
+td {
+    width: 25%;
+    text-align: center;
+}
+
+#icon{
+    width: 10%;
+}
+
+.ui-widget-header,.ui-state-default, ui-button {
+    border: 1px solid #b9cd6d;
+    color: #FFFFFF;
+    background-color: #eee !important;
+    font-weight: bold;
+}
